@@ -1,0 +1,2 @@
+# PythonArduinoGUI
+Жесткий интерфейс 
